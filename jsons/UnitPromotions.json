@@ -1,0 +1,7 @@
+[
+//Aliens
+  {
+    "name": "Experienced Troop",
+    "uniques": ["[+10] HP when healing", "[+400]% XP gained from combat", "[+4] XP gained from combat"]
+  },
+]
