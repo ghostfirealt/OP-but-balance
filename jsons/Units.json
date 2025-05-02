@@ -1,4 +1,4 @@
-[
+8[
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
@@ -17,7 +17,7 @@
         {
 		"name": "T-34",
 		"unitType": "Armored",
-		"uniqueTo": "Alien",
+		"uniqueTo": "Aliens",
 		"replaces": "Tank",
 		"movement": 6,
 		"strength": 70,
