@@ -1,4 +1,4 @@
-[
+8[
 	{
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniquename": "MANIFEST_DESTINY",
-                "uniques": ["[-75]% maintenance costs <for [All] units> <when at war>", "[+15]% Production when constructing [Land] units [in all cities] <when at war>","[+15]% [Science]  [in all cities] <when at war>","[+20]% [Culture] [in all cities] <when at war>","[+20]% Growth [in all cities] <when at war>","[Military] unit gain the [Experienced Troop] promotion","[+20]% Strength <for [Military] unit>"]
+                "uniques": ["[-75]% maintenance costs <for [All] units> <when at war>", "[+15]% Production when constructing [Land] units [in all cities] <when at war>","[+15]% [Science]  [in all cities] <when at war>","[+20]% [Culture] [in all cities] <when at war>","[+20]% Growth [in all cities] <when at war>","[All] unit gains the [Experienced Troop] promotion","[+20]% Strength <for [Military] unit>"]
 
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
