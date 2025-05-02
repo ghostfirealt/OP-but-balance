@@ -15,7 +15,7 @@
 		"attackSound": "phasers"
 	},
         {
-		"name": "T-34",
+		"name": "T-35",
 		"unitType": "Armored",
 		"uniqueTo": "SoVieta",
 		"replaces": "Tank",
