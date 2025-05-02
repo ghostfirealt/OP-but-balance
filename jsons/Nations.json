@@ -30,8 +30,8 @@
     "[Gold] cost of purchasing [Military] units [-20]%",
     "[Faith] cost of purchasing [Military] units [-20]%",
     "[+20]% Strength <for [Military] units>", 
-
-        
-    "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
+		]
+			
+"cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
 	}
 ]
