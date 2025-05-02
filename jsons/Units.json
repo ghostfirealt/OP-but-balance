@@ -13,5 +13,19 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+        {
+		"name": "T-34",
+		"unitType": "Armored",
+		"uniqueTo": "Soviet Union",
+		"replaces": "Tank",
+		"movement": 6,
+		"strength": 70,
+		"cost": 300,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Can move immediately once bought", "No defensive terrain bonus"],
+		"attackSound": "tankshot"
 	}
 ]
