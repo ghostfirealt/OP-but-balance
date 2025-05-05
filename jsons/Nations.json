@@ -1,8 +1,8 @@
 [
 //Doomstar
 	{
-		"name": "SoVieta",
-		"leaderName": "Ahaha",
+		"name": "SoViet",
+		"leaderName": "Stalin",
 		"adjective": ["SV"],
 		"preferredVictoryType": "Scientific",
 
@@ -19,8 +19,8 @@
 
 		"tradeRequest": "Will you agree this?",
 
-		"outerColor": [0,0,0],
-		"innerColor": [127,0,255],
+		"outerColor": [179,0,0],
+		"innerColor": [255,255,0],
 
 		"uniqueName": "Quality over quantity",
 		"uniques": [
