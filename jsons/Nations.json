@@ -24,12 +24,12 @@
 
 		"uniqueName": "Quality over quantity",
 		"uniques": [
-    "[+10]% [Science]", 
+    "[+30]% [Science]", 
     "[Military] units gain the [Experienced Troop] promotion",
     "[+10%] Production when constructing [Military] units [in all cities]",
-    "[Gold] cost of purchasing [Military] units [-20]%",
-    "[Faith] cost of purchasing [Military] units [-20]%",
-    "[+20]% Strength <for [Military] units>", 
+    "[Gold] cost of purchasing [Military] units [-40]%",
+    "[Faith] cost of purchasing [Military] units [-40]%",
+    "[+30]% Strength <for [Military] units>", 
 		]
 			
 "cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
