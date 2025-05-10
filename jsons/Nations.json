@@ -24,14 +24,17 @@
 
 		"uniqueName": "Quality over quantity",
 		"uniques": [
-    "[+30]% [Science]", 
+    "[+1 Production] per [1] population [in all cities] <when at war>", 
     "[Military] units gain the [Experienced Troop] promotion",
-    "[+10%] Production when constructing [Military] units [in all cities]",
+    "[+30%] Production when constructing [Military] units [in all cities]",
     "[Gold] cost of purchasing [Military] units [-40]%",
+    "Roads connect tiles across rivers",
     "[Faith] cost of purchasing [Military] units [-40]%",
-    "[+30]% Strength <for [Military] units>", 
+    "[3] Unit Supply per [2] population [in all cities]",
+    "[-75%] maintenance cost",
+    "[-30]% Strength <for [Military] units>", 
 		]
 			
-"cities": ["Core", "Anihillation", "Hive", "Doom", "Moscow", "Infestation", "Complex 001"]
+"cities": ["Moscow", "Stalingrad", "Lenningrad", "Berlin", "SoViet", "Infestation", "Complex 001"]
 	}
 ]
